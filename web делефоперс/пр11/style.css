@@ -1,0 +1,21 @@
+ .note 
+{
+    float: left; 
+    background: #ffffff; 
+    border: 1px solid #ffffff; 
+    padding: 20 20px; 
+    width: 200px; 
+    font-size: 20px;
+  
+ }
+ .not{
+  overflow: hidden;
+  background: #77cafd;
+  border: 5px solid blue; 
+   }
+.s{
+font-family:sans-serif; 
+font-style:italic;
+font-size: 75%;
+}
+.hidden { display: none; }

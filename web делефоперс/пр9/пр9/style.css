@@ -1,0 +1,86 @@
+.c{
+  padding: 20px;
+  border: 5px solid rgb(186, 176, 233);
+  height: 200px;
+  margin-top: 100px;
+  position: relative;
+   background-color: #00FF00		;
+} 
+.c h1{
+  background:url(https://steamuserimages-a.akamaihd.net/ugc/973226122632531078/128BCCBBC823AEEF00EF883312DE202ACA034060/?imw=512&amp;imh=340&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+  border: 2px solid rgb(0, 0, 0);
+  display: inline-block;
+  position: absolute;
+  left: 20px;
+  top: -50px;
+}
+.c2{
+  padding: 50px;
+  border: 5px solid rgb(59, 20, 230);
+  height: 200px;
+  margin-top: 200px;
+  position: relative;
+   background-color: #FF00FF			;
+} 
+.c2 h1{
+  background:url(https://steamuserimages-a.akamaihd.net/ugc/973226122632531078/128BCCBBC823AEEF00EF883312DE202ACA034060/?imw=512&amp;imh=340&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+  border: 2px solid rgb(0, 0, 0);
+  display: inline-block;
+  position: absolute;
+  left: 20px;
+  top: -50px;
+}
+.c3{
+   float:left; /* Выравнивание по левому краю */
+  margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+  padding: 50px;
+  border: 5px solid rgb(158, 187, 141);
+  height: 200px;
+  margin-top: 200px;
+  position: relative;
+   background-color: #6A5ACD;
+} 
+.c3 h1{
+  background:url(https://steamuserimages-a.akamaihd.net/ugc/973226122632531078/128BCCBBC823AEEF00EF883312DE202ACA034060/?imw=512&amp;imh=340&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+  border: 2px solid rgb(0, 0, 0);
+  display: inline-block;
+  position: absolute;
+  left: 20px;
+  top: -50px;
+}
+.c4{
+   float:left; /* Выравнивание по левому краю */
+  margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+  padding: 50px;
+  border: 5px solid rgb(187, 141, 141);
+  height: 200px;
+  margin-top: 200px;
+  position: relative;
+  background-color: #FDF5E6	;
+} 
+.c4 h1{
+  background:url(https://steamuserimages-a.akamaihd.net/ugc/973226122632531078/128BCCBBC823AEEF00EF883312DE202ACA034060/?imw=512&amp;imh=340&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+  border: 2px solid rgb(0, 0, 0);
+  display: inline-block;
+  position: absolute;
+  left: 20px;
+  top: -50px;
+}
+.c5{
+   float:left; /* Выравнивание по левому краю */
+  margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+  padding: 50px;
+  border: 5px solid rgb(187, 172, 141);
+  height: 200px;
+  margin-top: 200px;
+  position: relative;
+  background-color: #000000	;
+} 
+.c5 h1{
+  background:url(https://steamuserimages-a.akamaihd.net/ugc/973226122632531078/128BCCBBC823AEEF00EF883312DE202ACA034060/?imw=512&amp;imh=340&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+  border: 2px solid rgb(0, 0, 0);
+  display: inline-block;
+  position: absolute;
+  left: 20px;
+  top: -50px;
+}
